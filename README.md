@@ -2,8 +2,6 @@
 
 Query Bridge is a powerful web application that translates natural language questions into executable SQL queries. It allows users to interact with their tabular data using plain English, see the results instantly, and get a clear explanation of the underlying SQL code. This tool is built with React, Google's Gemini AI, and an in-browser SQL database, making it a seamless and educational experience for both technical and non-technical users.
 
-![Query Bridge Screenshot](https://storage.googleapis.com/aai-web-samples/query-bridge-screenshot.png)
-
 ## ✨ Features
 
 *   **Natural Language to SQL:** Ask questions like "How many female students are placed?" and get a valid SQL query in return.
